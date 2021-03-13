@@ -1,0 +1,28 @@
+textarea {
+	min-height: 400px;
+}
+
+.login {
+	margin-top: 70px;
+}
+
+.login_form {
+	margin-top: 40px;
+}
+
+a {
+	color: rgb(0, 82, 11);
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.senderr {
+	color: rgb(87, 87, 87);
+}
+
+.timee {
+	font-weight: bold;
+	color: rgb(87, 87, 87);
+}
